@@ -1,1 +1,3 @@
 # analise-mais-tocadas-no-spotify-2023
+
+Este repositório possui conjunto de dados que contém uma lista abrangente das músicas mais famosas de 2023 listadas no Spotify. O conjunto de dados oferece uma variedade de recursos além do que normalmente está disponível em conjuntos de dados semelhantes. Ele fornece informações sobre os atributos, popularidade e presença de cada música em várias plataformas musicais. O conjunto de dados inclui informações como nome da faixa, nome do(s) artista(s), data de lançamento, listas de reprodução e paradas do Spotify, estatísticas de streaming, presença do Apple Music, presença do Deezer, paradas do Shazam e vários recursos de áudio.
